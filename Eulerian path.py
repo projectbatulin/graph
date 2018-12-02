@@ -26,4 +26,10 @@ def eiler(graph,rez[],x=0,y=0):
 =======
 Part2
 code blah-blah-blah
+<<<<<<< HEAD
 >>>>>>> parent of 948d976... Update Eulerian path.py
+=======
+Part3
+code Ya-ya-ya-ya
+>>>>>>> parent of 0916ef0... Update Eulerian path.py
+>>>>>>> parent of c9e381b... Update Eulerian path.py
