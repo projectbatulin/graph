@@ -8,6 +8,7 @@ def Nzero(N):
         return False
     else:
         return True
+<<<<<<< HEAD
 def eiler(graph,rez[],x=0,y=0):
     if Nzero(graph)==0:
         return rez
@@ -22,3 +23,7 @@ def eiler(graph,rez[],x=0,y=0):
                     break
                 y+=1
             
+=======
+Part2
+code blah-blah-blah
+>>>>>>> parent of 948d976... Update Eulerian path.py
