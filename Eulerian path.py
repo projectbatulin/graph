@@ -10,5 +10,3 @@ def Nzero(N):
         return True
 Part2
 code blah-blah-blah
-Part3
-code Ya-ya-ya-ya
