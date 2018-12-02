@@ -8,3 +8,5 @@ def Nzero(N):
         return False
     else:
         return True
+Part2
+code blah-blah-blah
