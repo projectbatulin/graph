@@ -1,5 +1,5 @@
 N=[[0,1,0,1],[1,0,1,0],[0,1,0,1],[1,0,1,0]]
-def Nzero(N):
+def Rebra(N):
     summa=0
     for x in range(len(N)):
         for y in range(len(N)):
@@ -9,11 +9,11 @@ def Nzero(N):
     else:
         return True
 def eiler(graph,rez[],x=0,y=0):
-    if Nzero(graph)==0:
+    if Rebra(graph)== False:
         return rez
-    while Nzero(graph):
-        while x<3:
-            while y<3:
+    while rebra(graph):
+        while x<len(graph):
+            while y<len(graph):
                 if N[x][y]==1:
                     rez.append([x,y])
                     N[x][y]=0
